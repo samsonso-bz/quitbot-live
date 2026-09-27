@@ -1,4 +1,4 @@
-import { Bot, webhookCallback } from "grammy";
+import { Bot, webhookCallback } from "grammy/web";
 
 export default {
   async fetch(request, env) {
