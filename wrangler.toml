@@ -2,3 +2,7 @@ name = "quitbot-live"
 main = "worker.js"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "QUITBOT_KV"
+id = "ID_ТВОЕГО_NAMESPACE"
