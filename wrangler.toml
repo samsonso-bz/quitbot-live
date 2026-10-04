@@ -5,4 +5,4 @@ compatibility_flags = ["nodejs_compat"]
 
 [[kv_namespaces]]
 binding = "QUITBOT_KV"
-id = "ID_ТВОЕГО_NAMESPACE"
+id = "262c28656e004c5ead5ff2a1162fd5c0"
